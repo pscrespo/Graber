@@ -1,5 +1,6 @@
 ﻿Graber i3 3D Printer
 =================
+This is a clone of Graber i3 3D Printer, which is inspired by Prusa's i3. Below is original Readme File:
 
 This is the home of the Graber i3 3D printer: http://www.flickr.com/photos/sbgraber/8536293604/in/photostream/lightbox/
 
